@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ModulFifthExam</string>
+    <string name="str_skip">Skip</string>
+    <string name="str_done">Done</string>
+    <string name="title_saved">Saved Listings</string>
+    <string name="title_add">Add New Listings</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_notification">Saved Listings</string>
+    <string name="description_saved">Save your favorite listings to come to them later</string>
+</resources>
